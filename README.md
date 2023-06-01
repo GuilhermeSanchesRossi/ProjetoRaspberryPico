@@ -83,7 +83,7 @@ Este valores são encontrados ao executar o arquivo teste.py listado em Sensor_R
 <h2>✒️ Autores</h2>
 
 * Fernando Henriques Neto &nbsp;18.00931-0 
-* Guilherme Sanches Rossi &nbsp;&nbsp;19.02404-5 
+* [🔗 Guilherme Sanches Rossi](https://www.linkedin.com/in/guilherme-sanches-rossi/)) &nbsp;&nbsp;19.02404-5
 * Luiz Fernando Rodrigues &nbsp;&nbsp;&nbsp;19.01358-2 
 * Matheus Coelho Rocha  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20.00391-9 
 * Pedro Henrique S.Hein &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20.00134-7 
